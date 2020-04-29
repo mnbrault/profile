@@ -1,6 +1,10 @@
 body {
-  background-image: url(images/Pata-2.jpg);
-  background-color: #8CD4FF;
+  background-image: url(profile/images/Pata-2.jpg);
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-attachment: scroll;
+  background-size: cover;
+  background-color: #9CD08F;
   font-family: 'Quicksand', sans-serif ;
   color: #304C89 ;
   font-size: 20px ;
